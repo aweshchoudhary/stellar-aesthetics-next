@@ -119,7 +119,7 @@ const Procedure = ({procedure}) => {
                           alt=""
                           width={500}
                           height={500}
-                          className="w-full h-full opacity-50"
+                          className="w-full h-full object-cover opacity-50"
                         />
                       </div>
                     </div>
