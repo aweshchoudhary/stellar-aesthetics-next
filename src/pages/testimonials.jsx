@@ -1,19 +1,16 @@
-import { lazy } from "react";
-import { Helmet } from "react-helmet";
-import Bar from "../../Components/Loader/Bar";
-import TestimonailCard from "../../Components/Testimonials/TestimonailCard";
-import testimonials from "../../data/testimonials.json";
-
-const Section = lazy(() => import("../../Components/Main/Section"));
-const Heading = lazy(() => import("../../Components/Main/Heading"));
+import Heading from "@/components/global/Heading";
+import Loading from "@/components/global/Loading";
+import TestimonailCard from "@/components/global/TestimonailCard";
+import testimonials from "@/data/testimonials.json";
+import Head from "next/head";
 
 const Testimonials = () => {
   return (
     <>
-      <Helmet>
+      <Head>
         <title>Testimonials</title>
-      </Helmet>
-      <Section>
+      </Head>
+      <section className="section">
         <Heading
           text1={"They Loved It."}
           brNone={true}
@@ -26,13 +23,13 @@ const Testimonials = () => {
         <div className="my-10 flex flex-col gap-5">
           {testimonials ? (
             testimonials.map((item, index) => {
-              return <TestimonailCard data={item} />;
+              return <TestimonailCard key={index} data={item} />;
             })
           ) : (
-            <Bar />
+            <Loading />
           )}
         </div>
-      </Section>
+      </section>
     </>
   );
 };

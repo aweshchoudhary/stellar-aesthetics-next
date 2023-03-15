@@ -1,6 +1,7 @@
 import Heading from "@/components/global/Heading";
 import PageHeader from "@/components/global/PageHeader";
 import Head from "next/head";
+import Image from "next/image";
 
 export const Content = () => {
   return (
@@ -130,10 +131,12 @@ export const Content = () => {
           </p>
         </div>
         <div>
-          <img
+          <Image
             src="https://stellaraesthetics.in/wp-content/uploads/2021/12/Slide12.jpg.webp"
             className="w-full mt-10"
             alt=""
+            width={1000}
+            height={500}
           />
         </div>
       </section>
