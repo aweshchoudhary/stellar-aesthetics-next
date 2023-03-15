@@ -1,14 +1,11 @@
-import { lazy } from "react";
-import { Helmet } from "react-helmet";
-
-// Components Import
-const Img = lazy(() => import("../../Components/Main/Img"));
-const Card = lazy(() => import("../../Components/Main/Card"));
+import Card from "@/components/global/Card";
+import Head from "next/head";
+import Image from "next/image";
 
 const CourseDirector = () => {
   return (
     <>
-      <Helmet>
+      <Head>
         <title>Dr. Sapnna Vaderra</title>
         <meta
           name="description"
@@ -22,18 +19,19 @@ const CourseDirector = () => {
           name="keywords"
           content="stellar aesthetics, course director, dr sapnna vaderra, stellar aesthetics course mentor"
         />
-      </Helmet>
+      </Head>
 
       {/* Hero */}
-      <section>
-        <div>
-          <Img
+      <section className="h-[600px]">
+          <Image
             src={
               "https://stellaraesthetics.in/wp-content/uploads/2022/11/Copy-of-_OOL5537-min.jpg.webp"
             }
             alt="dr sapnna vaderra on stage"
+            width={1000}
+            height={800}
+            className="w-full h-full object-cover"
           />
-        </div>
       </section>
 
       {/* FIRST SECTION */}
@@ -51,7 +49,8 @@ const CourseDirector = () => {
             className="shrink-0 md:w-[30%] pt-5 bg-primary"
             style={{ backgroundColor: "#4c1a59" }}
           >
-            <Img src={"/assets/img/doctor-img.jpg"} />
+            <Image width={500}
+            height={500} alt="background image" src={"/assets/img/doctor-img.jpg"} />
           </div>
           <div>
             <p className="text-body md:pl-10 sm:pt-0 pt-5">
@@ -133,7 +132,9 @@ const CourseDirector = () => {
               enthusiasm.
             </p>
             <div className="shrink-0 md:w-[40%] w-full md:mt-0 mt-10">
-              <Img
+              <Image
+              width={500}
+              height={500}
                 src="https://stellaraesthetics.in/wp-content/uploads/2021/12/20190927_205052.jpg.webp"
                 alt=""
               />
@@ -195,7 +196,10 @@ const CourseDirector = () => {
             <div className={"md:w-[48%] h-[500px]"}>
               <div className="w-full h-full">
                 <div className="img h-[90%] w-full bg-gray-200">
-                  <Img
+                  <Image
+                  width={500}
+                  height={500}
+                  alt="image"
                     src={
                       "https://stellaraesthetics.in/wp-content/uploads/2022/12/FB_IMG_1669278790679.jpg"
                     }
@@ -214,12 +218,14 @@ const CourseDirector = () => {
             <div className={"md:w-[48%] h-[500px]"}>
               <div className="w-full h-full">
                 <div className="img h-[90%] w-full bg-gray-200">
-                  <Img
+                  <Image
+                  width={500}
+                  height={500}
                     src={
                       "https://stellaraesthetics.in/wp-content/uploads/2022/12/FB_IMG_1669278996452.jpg"
                     }
-                    imgClass="w-full h-full object-cover"
-                    className={"w-full h-full"}
+                    alt=""
+                    className="w-full h-full object-cover"
                   />
                 </div>
                 <div className="caption mt-3">
@@ -498,7 +504,10 @@ const CourseDirector = () => {
             <div className={"md:w-[48%]"}>
               <div>
                 <div className="img w-full bg-gray-200">
-                  <Img
+                  <Image
+                  width={500}
+                  height={500}
+                  alt=""
                     src={
                       "https://stellaraesthetics.in/wp-content/uploads/2022/12/IMG_20221124_142944.jpg.webp"
                     }
@@ -511,7 +520,10 @@ const CourseDirector = () => {
             <div className={"md:w-[48%]"}>
               <div>
                 <div className="img w-full bg-gray-200">
-                  <Img
+                  <Image
+                  alt=""
+                  width={500}
+            height={500}
                     src={
                       "https://stellaraesthetics.in/wp-content/uploads/2022/12/IMG_20221124_142919.jpg.webp"
                     }
@@ -524,7 +536,10 @@ const CourseDirector = () => {
             <div className={"md:w-[48%]"}>
               <div>
                 <div className="img w-full bg-gray-200">
-                  <Img
+                  <Image
+                  alt=""
+                  width={500}
+            height={500}
                     src={
                       "https://stellaraesthetics.in/wp-content/uploads/2022/12/IMG_20221124_142854.jpg.webp"
                     }
@@ -537,7 +552,10 @@ const CourseDirector = () => {
             <div className={"md:w-[48%]"}>
               <div>
                 <div className="img w-full bg-gray-200">
-                  <Img
+                  <Image
+                  alt=""
+                  width={500}
+            height={500}
                     src={
                       "https://stellaraesthetics.in/wp-content/uploads/2022/12/IMG_20221124_142842.jpg.webp"
                     }

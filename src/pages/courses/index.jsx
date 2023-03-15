@@ -173,7 +173,8 @@ const Courses = () => {
             <div className="flex md:gap-3 gap-5 md:flex-row flex-col">
               <Link
                 className={"shrink-0 md:w-1/2 hover:scale-105 transition"}
-                href={"/courses/certification-in-clinical-cosmetology"}
+                href={"/courses/fellowship-in-clinical-cosmetology"}
+                scroll={true}
               >
                 <Image
                   className={"h-full w-full"}
@@ -186,7 +187,8 @@ const Courses = () => {
               </Link>
               <Link
                 className={"shrink-0 md:w-1/2 hover:scale-105 transition"}
-                href={"/courses/certification-in-tricology"}
+                href={"/courses/fellowship-in-tricology"}
+                scroll={true}
               >
                 <Image
                   className={"h-full w-full"}
@@ -207,6 +209,7 @@ const Courses = () => {
               <Link
                 className={"shrink-0 md:w-1/3 hover:scale-105 transition"}
                 href={"/courses/certification-in-facial-cosmetics"}
+                scroll={true}
               >
                 <Image
                   className={"h-full w-full"}
@@ -220,6 +223,7 @@ const Courses = () => {
               <Link
                 className={"shrink-0 md:w-1/3 hover:scale-105 transition"}
                 href={"/courses/certification-in-hair-restoration"}
+                scroll={true}
               >
                 <Image
                   className={"h-full w-full"}
@@ -231,6 +235,7 @@ const Courses = () => {
                 />
               </Link>
               <Link
+              scroll={true}
                 className={"shrink-0 md:w-1/3 hover:scale-105 transition"}
                 href={
                   "/courses/certification-in-micro-pigmentation-micro-blading"

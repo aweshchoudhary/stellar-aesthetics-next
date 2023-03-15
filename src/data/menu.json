@@ -20,12 +20,12 @@
             },
             {
                 "label": "Vision",
-                "link": "/about-us/vision",
+                "link": "/about-us?q=vision",
                 "active": false
             },
             {
                 "label": "Company Director",
-                "link": "/about-us/director",
+                "link": "/about-us?q=director",
                 "active": false
             },
             {

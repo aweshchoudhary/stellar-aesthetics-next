@@ -7,12 +7,13 @@ import { useEffect, useRef } from "react";
 
 const About = () => {
   const router = useRouter()
-  const { scrollelement } = router.query;
+  const { q } = router.query;
+  console.log(q)
 
   const isMounted = useRef(false);
   useEffect(() => {
     const scrollToHash = () => {
-      let el = scrollelement && document.getElementById(scrollelement);
+      let el = q && document.getElementById(q);
       el && el.scrollIntoView(true);
     };
     isMounted && scrollToHash();
@@ -36,7 +37,7 @@ const About = () => {
 
       <PageHeader>About Us</PageHeader>
       <div id="company"></div>
-      <section className="lg:py-20 py-10 md:px-10 px-5">
+      <section className="section">
         <Heading
           text1={"a better you"}
           brNone={true}
@@ -65,7 +66,7 @@ const About = () => {
         </p>
       </section>
       <div id="vision"></div>
-      <section className="lg:py-20 py-10 md:px-10 px-5">
+      <section className="section">
         <Heading text1={"aiming for"} text2={"the stars"} brNone={true} />
         <h3 className="text-3xl my-10 font-medium">Our Vision</h3>
         <p>
@@ -90,7 +91,7 @@ const About = () => {
         </p>
       </section>
       <div id="director"></div>
-      <section className="lg:py-20 py-10 md:px-10 px-5 bg-primary">
+      <section className="section bg-primary">
         <Heading
           text1={"Director's"}
           text2={"Message"}

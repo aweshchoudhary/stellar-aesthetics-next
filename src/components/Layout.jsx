@@ -1,14 +1,13 @@
 import { DataProvider } from "@/context/DataContext"
 import Footer from "./global/Footer"
 import Header from "./global/header/Header"
-// import Navbar from "./global/header/navbar/Navbar"
 
 const Layout = ({children}) => {
+  
   return (
     <DataProvider>
-    {/* <Navbar /> */}
     <Header/>
-    <main>
+    <main data-nextjs-scroll-focus-boundary>
         <article>
             {children}
         </article>

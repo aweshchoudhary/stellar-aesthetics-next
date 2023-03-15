@@ -10,11 +10,7 @@ import Heading from "@/components/global/Heading";
 import Image from "next/image";
 
 
-const Procedure = () => {
-  const [procedure, setProcedure] = useState({});
-  const router = useRouter()
-  const { name } = router.query;
-
+const Procedure = ({procedure}) => {
   const settings = {
     dots: false,
     infinite: true,
@@ -23,7 +19,6 @@ const Procedure = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
   };
-
   function slide(dir) {
     if (dir === "prev") {
       document.querySelector(".slick-prev").click();
@@ -31,20 +26,6 @@ const Procedure = () => {
       document.querySelector(".slick-next").click();
     }
   }
-
-  // UseEffect Clean Up
-  const isMounted = useRef(false);
-
-  useEffect(() => {
-    const procedure = procedures.filter((item) => {
-      return item.attributes.type === name;
-    });
-    if (isMounted && procedure) setProcedure(...procedure);
-    return () => {
-      isMounted.current = true;
-    };
-  }, [name, setProcedure]);
-
   return procedure?.attributes && !procedure.loading ? (
     <>
       <Head>
@@ -89,7 +70,7 @@ const Procedure = () => {
           {proceduresSlider &&
             proceduresSlider.map((item, key) => {
               return (
-                item.attributes.type === name && (
+                item.attributes.type === procedure.attributes.type && (
                   <div key={key}>
                     <div className="w-full h-[500px] relative flex items-center justify-center">
                       <div className="content text-white text-center md:px-10">
@@ -102,7 +83,7 @@ const Procedure = () => {
                           <div className="flex gap-5 justify-center mt-4">
                             <a
                               aria-label="link"
-                              href={`https://api.whatsapp.com/send?phone=917999506817&text=Hello%20Team%20Stellar%20Aesthetics.I%20would%20like%20to%20get%20more%20info%20about%3A%20*${document.title}*`}
+                              href={`https://api.whatsapp.com/send?phone=917999506817&text=Hello%20Team%20Stellar%20Aesthetics.I%20would%20like%20to%20get%20more%20info%20about%3A%20*${procedure.attributes.type + "Procedures"}*`}
                               className="btn filled white text-primary"
                               target="_blank"
                               rel="noreferrer"
@@ -162,5 +143,30 @@ const Procedure = () => {
     <Loading />
   );
 };
+
+export async function getStaticPaths(){
+  const paths = procedures.map((item)=>{
+      return {
+        params: {
+          name: item.attributes.title.toLowerCase()
+        }
+      }
+  })
+  return {
+    paths,
+    fallback: false
+  }
+}
+export async function getStaticProps({params}){
+   let procedure; 
+  procedures.forEach(item=> {
+    if(params.name === item.attributes.title) procedure = item 
+  })
+  return {
+    props:{
+      procedure
+    }
+  }
+}
 
 export default Procedure;

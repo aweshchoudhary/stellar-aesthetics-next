@@ -882,6 +882,10 @@ a {
   height: 100vh;
 }
 
+.h-\[600px\] {
+  height: 600px;
+}
+
 .w-1\/2 {
   width: 50%;
 }
