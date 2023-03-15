@@ -1,0 +1,212 @@
+@import url("/fonts/poppins-black-webfont.woff");
+@import url("/fonts/poppins-black-webfont.woff2");
+@import url("/fonts/poppins-bold-webfont.woff");
+@import url("/fonts/poppins-bold-webfont.woff2");
+@import url("/fonts/poppins-extrabold-webfont.woff");
+@import url("/fonts/poppins-extrabold-webfont.woff2");
+@import url("/fonts/poppins-light-webfont.woff");
+@import url("/fonts/poppins-light-webfont.woff2");
+@import url("/fonts/poppins-medium-webfont.woff");
+@import url("/fonts/poppins-medium-webfont.woff2");
+@import url("/fonts/poppins-regular-webfont.woff");
+@import url("/fonts/poppins-regular-webfont.woff2");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+html:root {
+  --primary: #571168;
+  --color1: var(--primary);
+  --color2: #E6DE02;
+  --color3: #00CDE7;
+  --color4: #7EC624;
+  --color5: #E600CB;
+  --text-heading-color: #121212;
+  --text-body-color: #646464;
+  --strock-color: #CDCDCD;
+}
+
+.text-primary {
+  color: var(--primary);
+}
+
+.text-h-primary:hover {
+  color: var(--primary);
+}
+
+.text-head {
+  color: var(--text-heading-color);
+}
+
+.text-body {
+  color: var(--text-body-color);
+}
+
+.border-primary {
+  border-color: var(--primary);
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  font-display: swap;
+}
+
+body, html {
+  height: 100vh;
+  width: 100vw;
+  max-width: 1440px;
+  margin: auto;
+  overflow-x: hidden;
+  font-family: "Poppins", sans-serif;
+  font-display: swap;
+  transition: all 0.2s ease !important;
+  scroll-behavior: smooth !important;
+}
+
+li {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+.list-none {
+  list-style: none !important;
+  list-style-type: none !important;
+  margin-left: 0 !important;
+}
+
+.navbar ul li > ul {
+  display: none;
+}
+.navbar ul li:hover > ul {
+  display: block;
+}
+
+.course-director-image {
+  position: relative;
+}
+
+.course-director-image::before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: lightgray;
+  z-index: -1;
+}
+
+.text-effect {
+  background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(42, 42, 42) 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.slick-arrow {
+  display: none !important;
+}
+
+.gallery {
+  -moz-column-count: 1;
+       column-count: 1;
+  -moz-column-gap: 10px;
+       column-gap: 10px;
+}
+
+@media (max-width: 1200px) {
+  .gallery {
+    -moz-column-count: 3;
+         column-count: 3;
+    -moz-column-gap: 20px;
+         column-gap: 20px;
+  }
+}
+@media (max-width: 800px) {
+  .gallery {
+    -moz-column-count: 2;
+         column-count: 2;
+    -moz-column-gap: 20px;
+         column-gap: 20px;
+  }
+}
+@media (max-width: 600px) {
+  .gallery {
+    -moz-column-count: 1;
+         column-count: 1;
+  }
+}
+.gallery img, .gallery video {
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.modal-img, .model-vid {
+  width: 100%;
+  height: auto;
+}
+
+.modal-body {
+  padding: 0px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  color: var(--primary);
+  font-family: Poppins;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+
+.title-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+}
+
+.loading-svg {
+  width: 100px;
+  animation: rotate 3.6s linear infinite;
+}
+
+.loading-svg circle {
+  fill: none;
+  stroke: var(--primary);
+  stroke-width: 6px;
+  stroke-dasharray: 300;
+  animation: outline 2s cubic-bezier(0.77, 0, 0.18, 1) infinite;
+}
+
+@keyframes outline {
+  0% {
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dashoffset: 300;
+  }
+  100% {
+    stroke-dashoffset: 600;
+  }
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0turn);
+  }
+  to {
+    transform: rotate(-1turn);
+  }
+}/*# sourceMappingURL=global.css.map */

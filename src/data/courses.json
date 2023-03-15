@@ -1,0 +1,755 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "title": "clinical cosmetology",
+      "type": "fellowships",
+      "shortDescription": "<ul><li>Complete Hands-On</li><li>All Procedures (Basic to Advance)</li><li>Lifetime Business Mentorship</li><li>Lifetime Trainer Mentorship</li><li>Complete Practice Set-Up</li><li>Patient Acquisition Strategies</li><li>Study Material</li><li>Product &amp; Dealer Guide&nbsp;</li><li>International Placement Assistance</li></ul>",
+      "courseAbout": "<p>An International Education UK Board Certified, 3-month comprehensive fellowship program conceptualized for aestheticians &amp; doctors to build an 8-figure practice and be recognized as an expert in the field of clinical cosmetology. Our fellows are amongst the most successful cosmetology practitioners in the country and abroad.&nbsp;</p><p>&nbsp;</p><p>The fellowship is tailor-fit with the prime objective of achieving a successful practice. It is designed keeping in mind the business, professional and practical approach toward cosmetology giving you have the ultimate edge over any competition, present or future. The exhaustive Hands-on format, a large variety of patients, multiple mentoring sessions, strategic business development, and patient acquisition and retention strategies empower the fellows to have a stellar cosmetology practice. Module 1 &amp; 2 begins with us giving you the building blocks to immediately start your cosmetology practice.&nbsp;</p><p>&nbsp;</p><p>You will be trained on real-time patients and learn to formulate your own treatment plans and perform hands-on for all procedures on those patients. During the program, you will find an extensive display of innovative products &amp; equipment of all the major brands complete with product guides and dealer guides that are up-to-date with market trends, economically viable, and safe for the patients. With the ever-updated list of cosmetology procedures, you will be trained with the latest advances in cosmetology with the best and most renowned names in the industry.&nbsp;</p><p>&nbsp;</p><p>Module 3 will be completely dedicated to getting one-on-one business mentoring &amp; patient acquisition sessions in all aspects of the practice. This will help you in understanding your roads blocks and stabilizing your practice. Being a fellow gives you an added privilege to join us again for Module 4. Here you will perform Hands-on training for your identified areas of weakness. With this complete program, we ensure that your practice is a roaring success. And we secure your journey with our lifetime mentor-ship and support.</p>",
+      "createdAt": "2022-12-21T15:50:58.814Z",
+      "updatedAt": "2022-12-23T15:56:38.020Z",
+      "publishedAt": "2022-12-21T15:51:19.836Z",
+      "videoLink": "https://www.youtube.com/watch?v=AVfqsBYh7E0",
+      "slug": "fellowship-in-clinical-cosmetology",
+      "primaryColor": "#571168",
+      "courseAboutImg": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "DSC01691.webp"
+          }
+        }
+      },
+      "courseHeaderImg": {
+        "data": {
+          "id": 21,
+          "attributes": {
+            "name": "group-image.webp"
+          }
+        }
+      },
+      "roadmap": [
+        {
+          "id": 7,
+          "name": "Online Activities",
+          "description": "<ul><li>6 days- 6 online activities before the Hands-On Module Starts.&nbsp;</li><li>1 Online Live Interactive Lecture Session (webinar)&nbsp;</li><li>Lectures Series Part 1 (8 Prerecorded Lectures), covers various aspects of Clinical Cosmetology, to help you understand the intricacies before coming for Hands-On modules.</li></ul>"
+        },
+        {
+          "id": 8,
+          "name": "In-Person Activities",
+          "description": "<ul><li>6 days of In-Person Hands-On Training Session&nbsp;</li><li>Product Tour - Devices Tour - Business Training - Patient Acquisition &amp; Management</li></ul>"
+        },
+        {
+          "id": 9,
+          "name": "Practice Establishment",
+          "description": "<ul><li>Lectures Series Part 2 (6 Pre-Recorded Lectures), covers various aspects of Clinical Cosmetology, to help strengthen your learning and knowledge and for your assistance in the later stages of your practice.&nbsp;</li><li>Online Live Open Discussion Sessions: 3 Sessions: These are meant to Hands-hold you further to establish you in your practice. Doubt clearing, business planning, road mapping, case discussions, and understanding roadblocks and areas of weakness are prime pointers.</li></ul>"
+        },
+        {
+          "id": 10,
+          "name": "Achieving  Finesse",
+          "description": "<ul><li>In-Person Hands-On Training Sessions: 4 days (Hands-on training for identified areas of weakness to achieve finesse)</li></ul>"
+        }
+      ],
+      "glimpse": [
+        {
+          "id": 28,
+          "title": "ONE TO ONE HANDS-ON TRAINING FOR DERMAL FILLERS",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 5,
+              "attributes": {
+                "name": "19-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 29,
+          "title": "PARTICIPANT PERFORMING FAT LIPOLYSIS PROCEDURE ON TV ACTRESS ANANYA DUBEY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "name": "21-c.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 30,
+          "title": "PARTICIPANT PERFORMING BOTOX INJECTION FOR MASSETER HYPERTROPHY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "name": "17-cop.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 31,
+          "title": "MARKING INJECTION POINTS FOR BOTOX",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "name": "16-cop.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 32,
+          "title": "PARTICIPANT PERFORMING FRACTIONAL CO2 LASER PROCEDURE",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "name": "24-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 33,
+          "title": "MESO SOLUTION: PRODUCT BRIEFING",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 6,
+              "attributes": {
+                "name": "23-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 34,
+          "title": "LIVE MODEL DEMO FOR HIFU MARKINGS",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "26-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 35,
+          "title": "PARTICIPANT PERFORMING CARBON PEEL LASER",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 4,
+              "attributes": {
+                "name": "27-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 36,
+          "title": "PARTICIPANT PERFORMING FACE LIFTING PROCEDURE WITH HIFU MACHINE",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "name": "29-copy.webp"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "meta": "<meta\n  name=\"title\"\n  content=\"Fellowship In Clinical Cosmetology | Stellar Aesthetics Course\"\n/>\n<meta\n  name=\"description\"\n  content=\"fellowship &amp; certification in aesthetics medicine, cosmetic dermatology, facial aesthetics, medical cosmetology, lasers, botox, fillers, threats chemical peel\"\n/>\n<meta\n  name=\"keywords\"\n  content=\"fellowship in clinical cosmetology, aesthetics medicine, cosmetic dermatology, facial aesthetics, medical cosmetology, lasers, botox, fillers, threats chemical peel, dentist\"\n/>\n<meta name=\"robots\" content=\"index, follow\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta name=\"language\" content=\"English\" data-react-helmet=\"true\" />\n<meta\n  property=\"og:title\"\n  content=\"Fellowship In Clinical Cosmetology | Stellar Aesthetics Course\"\n/>\n<meta property=\"og:site_name\" content=\"Stellar Aesthetics\" />\n<meta\n  property=\"og:url\"\n  content=\"https://stellaraesthetics.in/courses/fellowship-in-clinical-cosmetology\"\n/>\n<meta\n  property=\"og:description\"\n  content=\"fellowship in clinical cosmetology, aesthetics medicine, cosmetic dermatology, facial aesthetics, medical cosmetology, lasers, botox, fillers, threats chemical peel, dentist\"\n/>\n<meta property=\"og:type\" content=\"article\" />\n\n<link\nrel=\"canonical\"\nhref=\"https://stellaraesthetics.in/courses/fellowship-in-clinical-cosmetology\"\n/>"
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "title": "trichology",
+      "type": "fellowships",
+      "shortDescription": "<ul><li><span style=\"background-color:transparent;\">Complete Hands-On</span></li><li><span style=\"background-color:transparent;\">All Procedures (Basic to Advance)</span></li><li><span style=\"background-color:transparent;\">Lifetime Business Mentorship</span></li><li><span style=\"background-color:transparent;\">Lifetime Trainer Mentorship</span></li><li><span style=\"background-color:transparent;\">Complete Practice Set-Up</span></li><li><span style=\"background-color:transparent;\">Patient Acquisition Strategies</span></li><li><span style=\"background-color:transparent;\">Study Material</span></li><li><span style=\"background-color:transparent;\">Product &amp; Dealer Guide</span></li><li><span style=\"background-color:transparent;\">International Placement Assistance</span></li></ul>",
+      "courseAbout": "<p style=\"margin-left:0px;\"><span style=\"background-color:transparent;font-family:Poppins;\">An International Education UK Board Certified, 3-month comprehensive fellowship program conceptualized for aestheticians &amp; doctors to build an 8-figure practice and be recognized as an expert in the field of clinical cosmetology. Our fellows are amongst the most successful cosmetology practitioners in the country and abroad.</span></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><span style=\"background-color:transparent;font-family:Poppins;\">The fellowship is tailor-fit with the prime objective of achieving a successful practice. It is designed keeping in mind the business, professional and practical approach toward cosmetology giving you have the ultimate edge over any competition, present or future.</span></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><span style=\"background-color:transparent;font-family:Poppins;\">The exhaustive Hands-on format, a large variety of patients, multiple mentoring sessions, strategic business development, and patient acquisition and retention strategies empower the fellows to have a stellar cosmetology practice. Module 1 &amp; 2 begins with us giving you the building blocks to immediately start your cosmetology practice. You will be trained on real-time patients and learn to formulate your own treatment plans and perform hands-on for all procedures on those patients.</span></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><span style=\"background-color:transparent;font-family:Poppins;\">During the program, you will find an extensive display of innovative products &amp; equipment of all the major brands complete with product guides and dealer guides that are up-to-date with market trends, economically viable, and safe for the patients. With the ever-updated list of cosmetology procedures, you will be trained with the latest advances in cosmetology with the best and most renowned names in the industry.</span></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><span style=\"background-color:transparent;font-family:Poppins;\">Module 3 will be completely dedicated to getting one-on-one business mentoring &amp; patient acquisition sessions in all aspects of the practice. This will help you in understanding your roads blocks and stabilizing your practice. Being a fellow gives you an added privilege to join us again for Module 4. Here you will perform Hands-on training for your identified areas of weakness. With this complete program, we ensure that your practice is a roaring success. And we secure your journey with our lifetime mentor-ship and support.</span></p>",
+      "createdAt": "2022-12-23T14:54:35.873Z",
+      "updatedAt": "2022-12-24T09:01:51.220Z",
+      "publishedAt": "2022-12-23T15:22:54.573Z",
+      "videoLink": "//",
+      "slug": "fellowship-in-tricology",
+      "primaryColor": "#b8b102",
+      "courseAboutImg": {
+        "data": {
+          "id": 22,
+          "attributes": {
+            "name": "23-copy-1.webp"
+          }
+        }
+      },
+      "courseHeaderImg": {
+        "data": {
+          "id": 23,
+          "attributes": {
+            "name": "10.webp"
+          }
+        }
+      },
+      "roadmap": [
+        {
+          "id": 11,
+          "name": "Online Activities",
+          "description": "<ul><li><span style=\"background-color:transparent;\">1 Online Lie Interactive Lecture Session (webinar)</span></li><li><span style=\"background-color:transparent;\">Lecture Series Part 1 (4 Pre-recorded Lectures) covers various aspects of Tricology, to help you understand the intricacies before coming for Hands-on modules.</span></li></ul>"
+        },
+        {
+          "id": 12,
+          "name": "In-Person Activities",
+          "description": "<ul><li><span style=\"background-color:transparent;\">15 days of In-Person Hands-On training Sessions</span></li><li><span style=\"background-color:transparent;\">Equipment Knowledge</span></li><li><span style=\"background-color:transparent;\">OT Setup Knowledge</span></li><li><span style=\"background-color:transparent;\">Business Training</span></li><li><span style=\"background-color:transparent;\">Patient Acquisition &amp; Management</span></li></ul>"
+        },
+        {
+          "id": 13,
+          "name": "Practice Establishment",
+          "description": "<ul><li><span style=\"background-color:transparent;\">Online Live Open Discussion Session: 3 Sessions: These are meant to Hand-hold you further to establish you in your practice. Doubt clearing, business planning, road mapping, case discussions, and understanding roadblocks and areas of weakness are prime pointers.</span></li></ul>"
+        },
+        {
+          "id": 14,
+          "name": "Achieving Finesse",
+          "description": "<ul><li><span style=\"background-color:transparent;\">In-Person Hands-On Training Session:15 days </span>(Hands-on training for identified areas of weakness to achieve finesse)</li></ul>"
+        }
+      ],
+      "glimpse": [
+        {
+          "id": 46,
+          "title": "ONE TO ONE MENTORSHIP FOR HAIR TRANSPLANTATION PROCEDURE",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 25,
+              "attributes": {
+                "name": "14-copy-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 47,
+          "title": "MARKING HAIRLINE FOR HAIR TRANSPLANTATION BY PARTICIPANT",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 28,
+              "attributes": {
+                "name": "20-copy-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 48,
+          "title": "MARKING HAIRLINE FOR HAIR TRANSPLANTATION BY PARTICIPANT",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 26,
+              "attributes": {
+                "name": "19-copy-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 49,
+          "title": "PARTICIPANT PERFORMING HANDS-ON FOR HAIR MESOTHERAPY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 29,
+              "attributes": {
+                "name": "17-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 50,
+          "title": "ONE-TO-ONE HANDS-ON FOR GFC",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 27,
+              "attributes": {
+                "name": "16-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 51,
+          "title": "PARTICIPANT PERFORMING HANDS-ON FOR HAIR PRP",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 24,
+              "attributes": {
+                "name": "15-copy.webp"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "title": "facial cosmetics",
+      "type": "certifications",
+      "shortDescription": "<ul><li><span style=\"background-color:transparent;\">Complete Hands-On</span></li><li><span style=\"background-color:transparent;\">Business Mentorship</span></li><li><span style=\"background-color:transparent;\">Trainer Mentorship</span></li><li><span style=\"background-color:transparent;\">Practice Set-Up</span></li><li><span style=\"background-color:transparent;\">Study Material</span></li><li><span style=\"background-color:transparent;\">Product &amp; Dealer Guide</span></li></ul>",
+      "courseAbout": "<p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;\">An International Education UK Board Certified, 10 days comprehensive hybrid program conceptualized for aestheticians to incorporate facial cosmetology into their day-to-day practice. The course is designed and customized keeping in mind the practical and patient-based approach towards cosmetology.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;\">Apart from giving you the individual attention needed to develop the skills, the small group &amp; extensive hands-on format empowers the trainees to practice cosmetology independently &amp; broaden their repertoire of offered services.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;\">The course begins with complete diagnosis and treatment planning, followed by extensive knowledge &amp; training in the entire gamut of Facial Cosmetology. You will then be trained on real-time patients &amp; learn to formulate your own treatment plans and perform hands-on for all procedures on those patients.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;\">During the course, you will find an extensive display of the latest products &amp;amp; equipment of the top brands complete with product guides and dealer guides that are up-to-date with market trends, economically viable, and safe for the patients.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;\">Throughout the program, you will be getting one-on-one Business mentoring sessions in all aspects of the practice ensuring a stellar journey in your cosmetology practice. And we will be part of your journey with our mentorship support and security.</span></p>",
+      "createdAt": "2022-12-23T15:02:53.816Z",
+      "updatedAt": "2022-12-24T08:59:11.039Z",
+      "publishedAt": "2022-12-23T15:22:41.417Z",
+      "videoLink": "//",
+      "slug": "certification-in-facial-cosmetics",
+      "primaryColor": "#009cb0",
+      "courseAboutImg": {
+        "data": {
+          "id": 30,
+          "attributes": {
+            "name": "DSC01691.webp"
+          }
+        }
+      },
+      "courseHeaderImg": {
+        "data": {
+          "id": 31,
+          "attributes": {
+            "name": "35.webp"
+          }
+        }
+      },
+      "roadmap": [
+        {
+          "id": 15,
+          "name": "Online Activities",
+          "description": "<ul><li><span style=\"background-color:transparent;\">6 days- 6 online activities before the Hands-On Module Starts</span></li><li><span style=\"background-color:transparent;\">1 Online Live Interactive Lecture Session (webinar)</span></li><li><span style=\"background-color:transparent;\">Lectures Series Part 1 (3 Pre-recorded Lectures), covers various aspects of Clinical Cosmetology, </span>to help you understand the intricacies before coming for Hands-On modules.</li></ul>"
+        },
+        {
+          "id": 16,
+          "name": "In-Person Activities",
+          "description": "<ul><li><span style=\"background-color:transparent;\">4 days of In-Person Hands-On Training Session</span></li><li><span style=\"background-color:transparent;\">Product Tour</span></li><li><span style=\"background-color:transparent;\">Devices Tour</span></li><li><span style=\"background-color:transparent;\">Business Training</span></li><li><span style=\"background-color:transparent;\">Patient Acquisition &amp; Management</span></li></ul>"
+        }
+      ],
+      "glimpse": [
+        {
+          "id": 52,
+          "title": "PARTICIPANT PERFORMING FAT LIPOLYSIS PROCEDURE ON TV ACTRESS ANANYA DUBEY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 40,
+              "attributes": {
+                "name": "21-c.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 53,
+          "title": "MARKING INJECTION POINTS FOR BOTOX",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 38,
+              "attributes": {
+                "name": "16-cop.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 54,
+          "title": "PARTICIPANT PERFORMING BOTOX INJECTION FOR MASSETER HYPERTROPHY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 39,
+              "attributes": {
+                "name": "17-cop.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 55,
+          "title": "ONE TO ONE HANDS-ON TRAINING FOR DERMAL FILLERS",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 34,
+              "attributes": {
+                "name": "19-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 56,
+          "title": "MESO SOLUTION: PRODUCT BRIEFING",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 35,
+              "attributes": {
+                "name": "23-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 57,
+          "title": "PARTICIPANT PERFORMING FRACTIONAL CO2 LASER PROCEDURE",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 36,
+              "attributes": {
+                "name": "24-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 58,
+          "title": "LIVE MODEL DEMO FOR HIFU MARKINGS",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 33,
+              "attributes": {
+                "name": "26-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 59,
+          "title": "PARTICIPANT PERFORMING FACE LIFTING PROCEDURE WITH HIFU MACHINE",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 37,
+              "attributes": {
+                "name": "29-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 60,
+          "title": "PARTICIPANT PERFORMING CARBON PEEL LASER",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 32,
+              "attributes": {
+                "name": "27-copy.webp"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "attributes": {
+      "title": "hair restoration",
+      "type": "certifications",
+      "shortDescription": "<ul><li><span style=\"background-color:transparent;\">Complete Hands-On</span></li><li><span style=\"background-color:transparent;\">Business Mentorship</span></li><li><span style=\"background-color:transparent;\">Trainer Mentorship</span></li><li><span style=\"background-color:transparent;\">Practice Set-Up</span></li><li><span style=\"background-color:transparent;\">Study Material</span></li><li><span style=\"background-color:transparent;\">Product &amp; Dealer Guide</span></li></ul>",
+      "courseAbout": "<p style=\"margin-left:0px;\">An International Education UK Board Certified, 6 days comprehensive hybrid program conceptualized for doctors and surgeons to incorporate the finess of hair restoration into their day-to-day practice. The course is designed and customized keeping in mind the practical and patient-based approach towards trichology.</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">Apart from giving you the individual attention needed to develop the skills, the small group &amp; extensive Hands-on format empowers the trainees to practice hair transplantation independently &amp;amp; broaden their repertoire of offered services.</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">The course begins with extensive hands-on training, on real-time patients for both surgical and non-surgical aspects of hair restoration. This will help you formulate your own treatment plans and you will be able to perform the procedures on your patients with confidence.</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">Throughout the program, you will be getting one-on-one Business mentoring sessions in all aspects of the practice ensuring a stellar journey in your cosmetology practice. And we will be part of your journey with our mentorship support and security.</p>",
+      "createdAt": "2022-12-23T15:09:10.558Z",
+      "updatedAt": "2022-12-24T09:00:23.384Z",
+      "publishedAt": "2022-12-23T15:22:46.851Z",
+      "videoLink": "//",
+      "slug": "certification-in-hair-restoration",
+      "primaryColor": "#60ad00",
+      "courseAboutImg": {
+        "data": {
+          "id": 22,
+          "attributes": {
+            "name": "23-copy-1.webp"
+          }
+        }
+      },
+      "courseHeaderImg": {
+        "data": {
+          "id": 47,
+          "attributes": {
+            "name": "10.webp"
+          }
+        }
+      },
+      "roadmap": [
+        {
+          "id": 17,
+          "name": "Online Activities",
+          "description": "<ul><li><span style=\"background-color:transparent;\">1 Online Lie Interactive Lecture Session (webinar)</span></li><li><span style=\"background-color:transparent;\">Lecture Series Part 1 (4 Pre-recorded Lectures) covers various aspects of Trichology, to help you understand the intricacies before coming for Hands-on modules.</span></li></ul>"
+        },
+        {
+          "id": 18,
+          "name": "In-Person Activities",
+          "description": "<ul><li><span style=\"background-color:transparent;\">3 days of In-Person Hands-On Training Sessions</span></li><li><span style=\"background-color:transparent;\">Equipment Knowledge</span></li><li><span style=\"background-color:transparent;\">OT Setup Knowledge</span></li><li><span style=\"background-color:transparent;\">Business Training</span></li><li><span style=\"background-color:transparent;\">Patient Acquisition &amp; Management</span></li></ul>"
+        }
+      ],
+      "glimpse": [
+        {
+          "id": 61,
+          "title": "ONE TO ONE MENTORSHIP FOR HAIR TRANSPLANTATION PROCEDURE",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 42,
+              "attributes": {
+                "name": "14-copy-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 62,
+          "title": "PARTICIPANT PERFORMING GRAFT IMPLANTATION FOR HAIR TRANSPLANTATION",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 46,
+              "attributes": {
+                "name": "20-copy-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 63,
+          "title": "MARKING HAIRLINE FOR HAIR TRANSPLANTATION BY PARTICIPANT",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 43,
+              "attributes": {
+                "name": "19-copy-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 64,
+          "title": "PARTICIPANT PERFORMING HANDS-ON FOR HAIR MESOTHERAPY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 45,
+              "attributes": {
+                "name": "17-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 65,
+          "title": "ONE-TO-ONE HANDS-ON FOR GFC",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 44,
+              "attributes": {
+                "name": "16-copy.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 66,
+          "title": "PARTICIPANT PERFORMING HANDS-ON FOR HAIR PRP",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 41,
+              "attributes": {
+                "name": "15-copy.webp"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "title": "micro pigmentation & micro blading",
+      "type": "certifications",
+      "shortDescription": "<ul><li><span style=\"background-color:transparent;\">Complete Hands-On</span></li><li><span style=\"background-color:transparent;\">Business Mentorship</span></li><li><span style=\"background-color:transparent;\">Trainer Mentorship</span></li><li><span style=\"background-color:transparent;\">Practice Set-Up</span></li><li><span style=\"background-color:transparent;\">Study Material</span></li><li><span style=\"background-color:transparent;\">Product &amp; Dealer Guide</span></li></ul>",
+      "courseAbout": "<p style=\"margin-left:0px;\"><span style=\"background-color:transparent;\">An International Education UK Board Certified, 10 days comprehensive hybrid program conceptualized for aestheticians to incorporate facial cosmetology into their day-to-day practice. The course is designed and customized keeping in mind the practical and patient-based approach towards cosmetology.</span></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><span style=\"background-color:transparent;\">Apart from giving you the individual attention needed to develop the skills, the small group &amp; extensive hands-on format empowers the trainees to practice cosmetology independently &amp; broaden their repertoire of offered services.</span></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><span style=\"background-color:transparent;\">The course begins with complete diagnosis and treatment planning, followed by extensive knowledge &amp; training in the entire gamut of Facial Cosmetology. You will then be trained on real-time patients &amp; learn to formulate your own treatment plans and perform hands-on for all procedures on those patients.</span></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><span style=\"background-color:transparent;\">During the course, you will find an extensive display of the latest products &amp;amp; equipment of the top brands complete with product guides and dealer guides that are up-to-date with market trends, economically viable, and safe for the patients.</span></p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><span style=\"background-color:transparent;\">Throughout the program, you will be getting one-on-one Business mentoring sessions in all aspects of the practice ensuring a stellar journey in your cosmetology practice. And we will be part of your journey with our mentorship support and security.</span></p>",
+      "createdAt": "2022-12-23T15:21:18.404Z",
+      "updatedAt": "2023-01-12T10:10:59.835Z",
+      "publishedAt": "2022-12-23T15:22:34.630Z",
+      "videoLink": "//",
+      "slug": "certification-in-micro-pigmentation-micro-blading",
+      "primaryColor": "#a80095",
+      "courseAboutImg": {
+        "data": {
+          "id": 22,
+          "attributes": {
+            "name": "28.webp"
+          }
+        }
+      },
+      "courseHeaderImg": {
+        "data": {
+          "id": 48,
+          "attributes": {
+            "name": "40.webp"
+          }
+        }
+      },
+      "roadmap": [
+        {
+          "id": 19,
+          "name": "Online Activities",
+          "description": "<ul><li><span style=\"background-color:transparent;\">6 days- 6 online activities before the Hands-On Module Starts</span></li><li><span style=\"background-color:transparent;\">1 Online Live Interactive Lecture Session (webinar)</span></li><li><span style=\"background-color:transparent;\">Lectures Series Part 1 (3 Pre-recorded Lectures), covers various aspects of Clinical Cosmetology, to help you understand the intricacies before coming for Hands-On modules.</span></li></ul>"
+        },
+        {
+          "id": 20,
+          "name": "In-Person Activities",
+          "description": "<ul><li><span style=\"background-color:transparent;\">4 days In-Person Hands-On Training Session</span></li><li><span style=\"background-color:transparent;\">Product Tour</span></li><li><span style=\"background-color:transparent;\">Devices Tour</span></li><li><span style=\"background-color:transparent;\">Business Training</span></li><li><span style=\"background-color:transparent;\">Patient Acquisition &amp; Management</span></li></ul>"
+        }
+      ],
+      "glimpse": [
+        {
+          "id": 67,
+          "title": "ONE-TO-ONE HANDS-ON FOR LIP DE-PIGMENTATION ON MOVIE ACTRESS SIMRAN ASHWINI",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 56,
+              "attributes": {
+                "name": "20.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 68,
+          "title": "PARTICIPANTS PRACTICING STROKES ON LATEX SHEETS",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 52,
+              "attributes": {
+                "name": "13.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 69,
+          "title": "PARTICIPANT PRACTICING BROW MAPPING",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 53,
+              "attributes": {
+                "name": "15.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 70,
+          "title": "PARTICIPANT PERFORMING FAT LIPOLYSIS PROCEDURE ON TV ACTRESS ANANYA DUBEY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 57,
+              "attributes": {
+                "name": "asfad.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 71,
+          "title": "PARTICIPANT PERFORMING MICROBLADING PROCEDURE",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 51,
+              "attributes": {
+                "name": "16-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 72,
+          "title": "LIP MARKING FOR LIP BLUSH",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 49,
+              "attributes": {
+                "name": "18-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 73,
+          "title": "PARTICIPANT PERFORMING LIP PIGMENTATION",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 54,
+              "attributes": {
+                "name": "19-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 74,
+          "title": "PRODUCT DISPLAY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 55,
+              "attributes": {
+                "name": "21-1.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 75,
+          "title": "PRODUCT DISPLAY",
+          "subtitle": null,
+          "img": {
+            "data": {
+              "id": 58,
+              "attributes": {
+                "name": "22.webp"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+]

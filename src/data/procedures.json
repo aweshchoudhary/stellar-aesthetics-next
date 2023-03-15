@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "title": "face",
+      "description": "<ul><li>Face Consultation</li><li>Anti-Aging Treatment</li><li>Fine Lines &amp; Wrinkles</li><li>Face Lifting</li><li>Liquid Face Lift</li><li>Thread Face Lift</li><li>Vampire Face Lift</li><li>Brow Lift</li><li>Neck Lifting</li><li>HIFU</li><li>Jaw Line Contouring</li><li>Chin Enhancement</li><li>Chin Lipolysis</li><li>Chin Implant</li><li>Rhinoplasty</li><li>Liquid Rhinoplasty</li><li>Dermal Fillers</li><li>Fat Grafting</li><li>Nano-Fat Grafting</li><li>Facial Scar Treatment</li><li>Revision Facial Surgery</li><li>Cleft Lip Repair</li><li>Cleft Palate Repair</li><li>Facial Feminisation</li></ul>",
+      "createdAt": "2022-12-26T14:45:24.661Z",
+      "updatedAt": "2022-12-28T09:16:35.549Z",
+      "publishedAt": "2022-12-26T14:45:29.352Z",
+      "type": "face",
+      "img": {
+        "data": {
+          "id": 88,
+          "attributes": {
+            "name": "face.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "title": "hair",
+      "description": "<ul><li>Hair Consultation</li><li>Non-Surgical Hair Treatment</li><li>Hair Fall Treatment</li><li>Hair Thinning Treatment</li><li>Dandruff Treatment</li><li>Stem Cell Therapy</li><li>PRP Treatment</li><li>Mesotherapy</li><li>Laser Hair Treatment</li><li>Growth Factor Injection</li><li>Vitamin Hair Injections</li><li>Hair Transplantation</li><li>FUT Transplantation</li><li>FUE Transplantation</li><li>Beard Transplantation</li><li>Hair Line Creation</li><li>Female Hair Transplantation</li><li>Robotic Hair Transplantation</li><li>Hair Patch</li><li>Hair Weaving</li></ul>",
+      "createdAt": "2022-12-26T14:46:17.819Z",
+      "updatedAt": "2022-12-28T09:16:44.908Z",
+      "publishedAt": "2022-12-26T14:46:20.344Z",
+      "type": "hair",
+      "img": {
+        "data": {
+          "id": 89,
+          "attributes": {
+            "name": "hair.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "title": "skin",
+      "description": "<ul><li>Skin Lightening</li><li>Skin Brightening</li><li>Skin Whitening</li><li>Double Tone Correction</li><li>Chemical Peels</li><li>Carbon Peel Laser</li><li>Pigment Reduction</li><li>Dull Skin Treatment</li><li>Acne &amp; Acne Scar Correction</li><li>Unwanted Hair Removal</li><li>Tattoo Removal</li><li>Mole &amp; Wart Removal</li><li>Skin Tag Removal</li><li>Birthmark Removal</li><li>Spider Vein Treatment</li><li>Skin Anti-Aging</li><li>Micro-pigmentation</li><li>Micro-blading</li><li>Permanent Makeup</li><li>Permanent Eyebrows</li><li>Permanent Lip Shade</li><li>Bridal Skin Care</li></ul>",
+      "createdAt": "2022-12-26T14:47:35.416Z",
+      "updatedAt": "2022-12-28T09:17:03.021Z",
+      "publishedAt": "2022-12-26T14:47:42.960Z",
+      "type": "skin",
+      "img": {
+        "data": {
+          "id": 79,
+          "attributes": {
+            "name": "skin.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "attributes": {
+      "title": "body",
+      "description": "<ul><li>Liposuction</li><li>Cool Sculpting</li><li>Tummy Tuck</li><li>Breast Augmentation</li><li>Breast Reduction</li><li>Mammoplasty</li><li>Gynecomastia Correction</li><li>Arm Lift</li><li>Butt Lift</li><li>Thigh Lift</li><li>Brazilian Butt Lift</li><li>Full Body Lift</li><li>Post Bariatric Rejuvenation</li><li>Fat Transfer</li><li>Breast Lift</li><li>Breast Implants</li><li>Calf Sculpting</li><li>Hyper-Hydrosis Correction</li><li>Under-arm Rejuvenation</li><li>Body HIFU</li><li>Keloids Corrections</li><li>Hypertrophic Scar Correction</li><li>Calf Implants</li><li>Nano Fat Transfer</li></ul>",
+      "createdAt": "2022-12-26T14:48:17.928Z",
+      "updatedAt": "2022-12-28T09:16:25.840Z",
+      "publishedAt": "2022-12-26T14:48:20.858Z",
+      "type": "body",
+      "img": {
+        "data": {
+          "id": 78,
+          "attributes": {
+            "name": "body.webp"
+          }
+        }
+      }
+    }
+  }
+]

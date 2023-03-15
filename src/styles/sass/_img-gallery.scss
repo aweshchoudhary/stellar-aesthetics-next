@@ -1,0 +1,34 @@
+.gallery{
+    column-count:1;
+    column-gap:10px;
+  }
+  @media (max-width:1200px){
+    .gallery{
+    column-count:3;
+    column-gap:20px;
+  }
+  }
+  @media (max-width:800px){
+    .gallery{
+    column-count:2;
+    column-gap:20px;
+  }
+  }
+  @media (max-width:600px){
+    .gallery{
+    column-count:1;
+  }  
+  }
+  .gallery img,.gallery video {
+    width:100%;
+    height:auto;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .modal-img,.model-vid{
+    width:100%;
+    height:auto;
+  }
+  .modal-body{
+    padding:0px;
+  }

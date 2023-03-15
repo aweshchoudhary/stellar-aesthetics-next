@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "customerName": "Dr. Nilesh Dusane",
+      "customerDetails": "Dermatologist, Jalgaon",
+      "quoteHeading": "I will FLOURISH IN MY PRACTICE with this set of skills",
+      "quoteDescription": "<p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">My friend told me that Stellar Aesthetics is the right place to learn and practice cosmetology on patients. Teaching at Stellar Aesthetics is excellent. Not only the theoretical and practical part but also the homecare regimen guidance, business knowledge, guidance, and mentoring are very good.</span><br>&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">After finishing the program, I am very confident about all the procedures and I am sure I will be able to flourish in my practice with this set of skills. If you want to get trained in Cosmetology and Trichology and are looking for a program, Stellar Aesthetics is the name.</span></p>",
+      "createdAt": "2022-12-23T16:13:34.578Z",
+      "updatedAt": "2023-01-10T17:57:31.562Z",
+      "publishedAt": "2022-12-23T16:13:37.033Z",
+      "img": {
+        "data": {
+          "id": 62,
+          "attributes": {
+            "name": "https://res.cloudinary.com/dcjhzzypt/image/upload/v1674712029/3_vvkdo7.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "customerName": "Dr. K Shravan Kumar",
+      "customerDetails": "Maxillofacial Surgeon, Varangal",
+      "quoteHeading": "Excellent Evaluation, Theoretical Knowledge & HANDS-ON",
+      "quoteDescription": "<p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">Before registering for the program at Stellar Aesthetics I researched about Dr. Sapnna Vaderra &amp; was zighly impressed by her research &amp; publications in reputed International journals including Springers. Her credibility gave me the confidence to come and attend this comprehensive training program at Stellar Aesthetics.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">One thing I would want to say is, it is not just about the injection, but the way it is to be held, the depth, when to start, where to stop and everything was explained and shown with absolute intricacy. The evaluation aspect, theoretical &amp; hands-on part, everything was just excellent.</span></p>",
+      "createdAt": "2022-12-23T16:14:23.259Z",
+      "updatedAt": "2023-01-10T17:57:19.041Z",
+      "publishedAt": "2022-12-23T16:15:32.994Z",
+      "img": {
+        "data": {
+          "id": 64,
+          "attributes": {
+            "name": "https://res.cloudinary.com/dcjhzzypt/image/upload/v1674712029/4_ebwdj4.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "customerName": "Dr. Baldev Raj",
+      "customerDetails": "General Surgeon, Pathankot, Punjab",
+      "quoteHeading": "STELLAR AESTHETICS: Learning From The BEST",
+      "quoteDescription": "<p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">I came to Stellar Aesthetics because I wanted to learn from the best. Dr. Sapnna Vaderra is an excellent teacher. She hand-holds you throughout.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">I learned all the procedures Botox, Fillers, Threads, Lasers, Peels and much more on patients with complete Hands-on. Stellar Aesthetics is awesome I would definitely recommend this training program to everyone.</span></p>",
+      "createdAt": "2022-12-23T16:15:26.803Z",
+      "updatedAt": "2023-01-10T17:57:04.736Z",
+      "publishedAt": "2022-12-23T16:15:29.326Z",
+      "img": {
+        "data": {
+          "id": 63,
+          "attributes": {
+            "name": "https://res.cloudinary.com/dcjhzzypt/image/upload/v1674712029/5_gyrhkf.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "attributes": {
+      "customerName": "Dr. Seema Rathi",
+      "customerDetails": "Cosmetic Dentist, Mumbai",
+      "quoteHeading": "Packed with HANDS-ON & Knowledge about Machinery",
+      "quoteDescription": "<p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">l am a practicing Implantologist based in Mumbai. I like keeping myself updated with time and wanted to learn Cosmetology to incorporate it as a service that I can provide to my patients. I have heard a lot of good things about Stellar Aesthetics and decided to join it.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\">I am pleased to say this is a very wonderful course, compact and packed with Hands-on with detailed knowledge about the machinery as well. I would say if you want to learn Cosmetology and incorporate it into your running practice, this is the place to go.</p>",
+      "createdAt": "2022-12-23T16:16:18.246Z",
+      "updatedAt": "2023-01-10T17:57:40.006Z",
+      "publishedAt": "2022-12-23T16:16:22.481Z",
+      "img": {
+        "data": {
+          "id": 60,
+          "attributes": {
+            "name": "https://res.cloudinary.com/dcjhzzypt/image/upload/v1674712029/2_ghdegx.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "customerName": "Dr. Siah Mtui",
+      "customerDetails": "Cosmetolgist, Tanzania",
+      "quoteHeading": "To sum it up, INTENSE & WELL STRUCTURED",
+      "quoteDescription": "<p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">The combination of online and in-person training was worth it for me, as I could attend the online session sitting at my place and then come to India to attend the in-person training.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\">The skills I got after training at Stellar Aesthetics are confidence: know what you are selling, how to brand my practice, marketing: how to get clients &amp; how to make sales, concentrate more in terms of what you can provide in terms of services and then add over the period of time, diagnosis and complete treatment of the patient. To sum it up, the training program is intense and well structured.</p>",
+      "createdAt": "2022-12-23T16:17:06.872Z",
+      "updatedAt": "2023-01-10T17:57:48.002Z",
+      "publishedAt": "2022-12-23T16:17:08.966Z",
+      "img": {
+        "data": {
+          "id": 61,
+          "attributes": {
+            "name": "https://res.cloudinary.com/dcjhzzypt/image/upload/v1674712029/1_tcal27.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "customerName": "Dr. Anita Pal",
+      "customerDetails": "Head & Neck Surgeon, Mumbai",
+      "quoteHeading": "You get the BEST ATTENTION throughout",
+      "quoteDescription": "<p style=\"margin-left:0px;text-align:justify;\"><span style=\"background-color:transparent;font-family:Poppins;\">I was looking for an opportunity to learn from Dr. Sapnna Vaderra &amp; Stellar Aesthetics for a long time &amp; when I came to know about the course, I immediately joined it and it was the best decision for me.</span></p><p style=\"margin-left:0px;text-align:justify;\">&nbsp;</p><p style=\"margin-left:0px;text-align:justify;\">Here I learned a holistic way of patient management starting from the time the patient walks into the clinic, material procurement, business guidance and of course Hands-on for all procedures. You get the best attention throughout. High recommended.</p>",
+      "createdAt": "2022-12-23T16:17:58.052Z",
+      "updatedAt": "2023-01-10T17:56:56.359Z",
+      "publishedAt": "2022-12-23T16:18:01.991Z",
+      "img": {
+        "data": {
+          "id": 59,
+          "attributes": {
+            "name": "https://res.cloudinary.com/dcjhzzypt/image/upload/v1674712029/6_csbxuo.webp"
+          }
+        }
+      }
+    }
+  }
+]

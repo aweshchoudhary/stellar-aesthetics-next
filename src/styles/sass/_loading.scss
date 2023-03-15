@@ -1,0 +1,59 @@
+
+.title {
+	display: flex;
+	justify-content: center;
+	color: var(--primary);
+	font-family: Poppins;
+	user-select: none;
+	// text-shadow: 2px 2px 3px black;
+}
+
+.title-container {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	// position: absolute;
+	// padding: 50px;
+}
+
+.spinner {
+	display: flex;
+	justify-content: center;
+}
+
+.loading-svg {
+	width: 100px;
+	// max-width: 10rem;
+	animation: rotate 3.6s linear infinite;
+}
+
+.loading-svg circle {
+	fill: none;
+	stroke: var(--primary);
+	stroke-width: 6px;
+	stroke-dasharray: 300;
+	animation: outline 2s cubic-bezier(0.77, 0, 0.18, 1) infinite;
+}
+
+@keyframes outline {
+	0% {
+		stroke-dashoffset: 0;
+	}
+	50% {
+		stroke-dashoffset: 300;
+	}
+	100% {
+		stroke-dashoffset: 600;
+	}
+}
+
+@keyframes rotate {
+	from {
+		transform: rotate(0turn);
+	}
+	to {
+		transform: rotate(-1turn);
+	}
+}
+

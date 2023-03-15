@@ -1,0 +1,48 @@
+.navbar{
+    ul {
+        li{
+            > ul{
+                display: none;
+            }
+            &:hover > ul{
+                display: block;
+            }
+        }
+    }
+}
+
+.course-director-image{
+    position: relative;
+}
+.course-director-image::before{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: lightgray;
+    z-index: -1;
+}
+
+
+
+
+.text-effect{
+    background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(42, 42, 42) 100%);   
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+
+@keyframes spinner {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .slick-arrow{
+    display: none !important;
+  }

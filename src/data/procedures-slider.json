@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "title": "It's never too late to AGE ELEGANTLY",
+      "type": "face",
+      "description": "<p style=\"margin-left:0px;\">With Stellar Aesthetics’ Facial Cosmetic Procedures you can bring out your true beauty, for the world to see.</p>",
+      "createdAt": "2022-12-28T09:05:11.761Z",
+      "updatedAt": "2022-12-28T09:05:14.247Z",
+      "publishedAt": "2022-12-28T09:05:14.235Z",
+      "img": {
+        "data": {
+          "id": 83,
+          "attributes": {
+            "name": "Facial-Treatments-Aesthetics-Services-3.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "title": "Be YOUR BEST Version",
+      "type": "face",
+      "description": "<p style=\"margin-left:0px;\">With Stellar Aesthetics’ Facial Cosmetic Procedures you can bring out your true beauty, for the world to see.</p>",
+      "createdAt": "2022-12-28T09:05:45.831Z",
+      "updatedAt": "2022-12-28T09:05:47.695Z",
+      "publishedAt": "2022-12-28T09:05:47.689Z",
+      "img": {
+        "data": {
+          "id": 85,
+          "attributes": {
+            "name": "Facial-Treatments-Aesthetics-Services-2-1.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "title": "We're HAIR for you!",
+      "type": "hair",
+      "description": "<p style=\"margin-left:0px;\">Have a Good-Hair-Day, everyday, with Stellar Aesthetics’ Hair Restoration Procedures. Own it. Love it. Enjoy it.</p>",
+      "createdAt": "2022-12-28T09:06:44.125Z",
+      "updatedAt": "2022-12-28T09:06:46.000Z",
+      "publishedAt": "2022-12-28T09:06:45.993Z",
+      "img": {
+        "data": {
+          "id": 80,
+          "attributes": {
+            "name": "hair-banner-1.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "attributes": {
+      "title": "SELF CARE starts with SKIN CARE",
+      "type": "skin",
+      "description": "<p style=\"margin-left:0px;\">Flaunt your smooth and beautiful skin with Stellar Aesthetics’ Skin Cosmetic Procedures.</p>",
+      "createdAt": "2022-12-28T09:07:29.048Z",
+      "updatedAt": "2022-12-28T09:07:31.116Z",
+      "publishedAt": "2022-12-28T09:07:31.105Z",
+      "img": {
+        "data": {
+          "id": 84,
+          "attributes": {
+            "name": "skin-banner-1.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "title": "CHANGE the way You Age.",
+      "type": "skin",
+      "description": "<p style=\"margin-left:0px;\">Flaunt your smooth and beautiful skin with Stellar Aesthetics’ Skin Cosmetic Procedures.</p>",
+      "createdAt": "2022-12-28T09:08:04.355Z",
+      "updatedAt": "2022-12-28T09:08:07.706Z",
+      "publishedAt": "2022-12-28T09:08:07.693Z",
+      "img": {
+        "data": {
+          "id": 82,
+          "attributes": {
+            "name": "RednessSensitvityBanner.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "title": "Your Body. Envied by Everyone Else.",
+      "type": "body",
+      "description": "<p style=\"margin-left:0px;\">Have the body you always dreamt of with Stellar Aesthetics’ Body Cosmetic Procedures.</p>",
+      "createdAt": "2022-12-28T09:08:45.764Z",
+      "updatedAt": "2022-12-28T09:08:47.610Z",
+      "publishedAt": "2022-12-28T09:08:47.602Z",
+      "img": {
+        "data": {
+          "id": 86,
+          "attributes": {
+            "name": "body.webp"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "attributes": {
+      "title": "YOUR BODY, deserves to GLOW.",
+      "type": "body",
+      "description": "<p style=\"margin-left:0px;\">Have the body you always dreamt of with Stellar Aesthetics’ Body Cosmetic Procedures.</p>",
+      "createdAt": "2022-12-28T09:09:23.328Z",
+      "updatedAt": "2022-12-28T09:09:28.448Z",
+      "publishedAt": "2022-12-28T09:09:28.433Z",
+      "img": {
+        "data": {
+          "id": 87,
+          "attributes": {
+            "name": "body-2.webp"
+          }
+        }
+      }
+    }
+  }
+]

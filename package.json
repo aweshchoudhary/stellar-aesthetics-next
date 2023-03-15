@@ -6,13 +6,17 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "watch": "npx tailwindcss -i ./src/styles/input.css -o ./src/styles/output.css --watch"
   },
   "dependencies": {
+    "@iconify/react": "^4.1.0",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
+    "framer-motion": "^10.3.0",
     "next": "13.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-slick": "^0.29.0"
   }
 }

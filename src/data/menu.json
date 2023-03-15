@@ -1,0 +1,144 @@
+[
+    {
+        "label":"Home",
+        "link":"/",
+        "active": true,
+        "icon": "ic:round-home",
+        "search": "home"
+    },
+    {
+        "label":"About",
+        "link":"/about-us",
+        "active": false,
+        "icon": "material-symbols:check-box-rounded",
+        "search": "about, company, vision, director, course director",
+        "submenu":[
+            {
+                "label": "Company",
+                "link": "/about-us",
+                "active": false
+            },
+            {
+                "label": "Vision",
+                "link": "/about-us/vision",
+                "active": false
+            },
+            {
+                "label": "Company Director",
+                "link": "/about-us/director",
+                "active": false
+            },
+            {
+                "label": "Dr. Sapnna Vaderra",
+                "link": "/dr-sapnna-vaderra",
+                "active": false
+            }
+        ]
+    },
+    {
+        "label":"Courses",
+        "link":"/courses",
+        "active": false,
+        "icon": "bxs:category",
+        "search": "courses",
+        "submenu": [
+            {
+                "heading": "Fellowships",
+                "items": [
+                    {
+                        "label":"Fellowship In Clinical Cosmetology",
+                        "link":"/courses/fellowship-in-clinical-cosmetology",
+                        "search": "awesh",
+                        "active": false 
+                    },
+                    {
+                        "label":"Fellowship In Tricology",
+                        "link":"/courses/fellowship-in-tricology",
+                        "search": "hair",
+                        "active": false 
+                    }
+                ]
+            },
+            {
+                "heading": "Certifications",
+                "items": [
+                    {
+                        "label":"Certification In Facial Cosmetics",
+                        "link":"/courses/certification-in-facial-cosmetics",
+                        "active": false 
+                    },
+                    {
+                        "label":"Certification In Hair Restoration",
+                        "link":"/courses/certification-in-hair-restoration",
+                        "active": false 
+                    },
+                    {
+                        "label":"Certification In Micro Pigmentation & Micro Blading",
+                        "link":"/courses/certification-in-micro-pigmentation-micro-blading",
+                        "active": false 
+                    }
+                ]
+            },
+            {
+                "label": "Why Choose Us",
+                "link": "/why-choose-us",
+                "active": false
+            },
+            {
+                "label": "Course Director",
+                "link": "/dr-sapnna-vaderra",
+                "active": false
+            },
+            {
+                "label": "Testimonials",
+                "link": "/testimonials",
+                "search": "reviews, customer words",
+                "active": false
+            }
+            
+        ]
+    },
+    {
+        "label":"Procedures",
+        "link":"/procedures",
+        "active": false,
+        "icon": "mdi:paper-check",
+        "type": "normal",
+        "submenu":[
+                    {
+                        "label": "Face",
+                        "link": "/procedures/face",
+                        "active": false
+                    },
+                    {
+                        "label": "Hair",
+                        "link": "/procedures/hair",
+                        "active": false
+                    },
+                    {
+                        "label": "Skin",
+                        "link": "/procedures/skin",
+                        "active": false
+                    },
+                    {
+                        "label": "Body",
+                        "link": "/procedures/body",
+                        "active": false
+                    }
+                ]
+            
+        
+    },
+    {
+        "label":"Doctors",
+        "link":"/doctors",
+        "active": false,
+        "icon": "wpf:medical-doctor"
+    },
+    {
+        "label":"Contact",
+        "link":"/contact-us",
+        "active": false,
+        "icon": "material-symbols:phone-in-talk-watchface-indicator"
+    }
+]

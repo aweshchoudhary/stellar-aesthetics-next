@@ -1,0 +1,161 @@
+{
+  "id": 1,
+  "attributes": {
+    "description": "<p>A Surgeon- Researcher-Mentor par excellence. Dr Sapnna Vaderra is one of the top Facial Plastic, Facial Cosmetic &amp; Hair Transplant Surgeon and Co Founder of Stellar Aesthetics, India. Throughout her meritorious career, she has been humbled with numerous awards She is an International Speaker for Cosmetology &amp; has been training &amp; mentoring aestheticians who travel nationally &amp; internationally to learn the art of Cosmetology from her. She has contributed to more than 32 International Pubmed Indexed Journals and Book Chapters.&nbsp;</p><p>&nbsp;</p><p>She maintains an exclusive Cosmetology Practice &amp; consults at leading Cosmetic Centers across Mumbai. Her passion and expertise in the subject of Cosmetology is well known. - Co-Director: Stellar Aesthetics (15+ Centers across India) - Consultant Facial Cosmetic Surgeon at: Stellar Aesthetics The Bombay Aesthetics Adore Skin &amp; Aesthetics Be YOU Aesthetics Porwal Aesthetic World&nbsp;</p>",
+    "createdAt": "2022-12-21T16:08:52.590Z",
+    "updatedAt": "2022-12-25T09:30:48.351Z",
+    "publishedAt": "2022-12-23T09:44:58.694Z",
+    "heading": "<h2><span style=\"color:hsl(0,0%,0%);font-size:35px;\"><strong>Dr. Sapnna Vaderra</strong></span></h2><h3 style=\"margin-left:0px;\"><span style=\"font-size:27px;\">Surgeon. Researcher. Mentor.</span></h3>",
+    "awards": "<h3><span style=\"font-size:27px;\">Awards &amp; Recognition&nbsp;</span></h3><ul><li><span style=\"color:hsl(0,0%,30%);\">Awarded for Excellence in Cosmetology, 2022&nbsp;</span></li><li><span style=\"color:hsl(0,0%,30%);\">Molaris - Awarded Best South Asian Paper for her pioneering research paper on Aging of IndianFace 2021&nbsp;</span></li><li><span style=\"color:hsl(0,0%,30%);\">Awarded Excellence in Facial Cosmetics, 2019 - Indian Health Professional Awards&nbsp;</span></li><li><span style=\"color:hsl(0,0%,30%);\">Winner of Young Achiever in Facial Cosmetics, 2019&nbsp;</span></li><li><span style=\"color:hsl(0,0%,30%);\">IADS - Winner of Youth Icon of the year, 2019 - IADS</span></li></ul>",
+    "img": {
+      "data": {
+        "id": 11,
+        "attributes": {
+          "name": "dr-sapnna-vaderra.webp"
+        }
+      }
+    },
+    "imgs": [
+      {
+        "id": 37,
+        "title": "KeyNote Lecture",
+        "subtitle": "Felicitation in Chennai, Molaris 2022",
+        "horizontal": false,
+        "img": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "4-1.webp"
+            }
+          }
+        }
+      },
+      {
+        "id": 38,
+        "title": "Award by IHPA 2019",
+        "subtitle": "Excellence In Facial Cosmetics by IIHPA 2019",
+        "horizontal": false,
+        "img": {
+          "data": {
+            "id": 20,
+            "attributes": {
+              "name": "20191221_211917.webp"
+            }
+          }
+        }
+      },
+      {
+        "id": 39,
+        "title": "KeyNote Speaker",
+        "subtitle": "RECOGYN 2022, International Cosmetic Gynaecology Conference",
+        "horizontal": false,
+        "img": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "7.webp"
+            }
+          }
+        }
+      },
+      {
+        "id": 40,
+        "title": "Excellence in Facial Cosmetics: IHPA 2019",
+        "subtitle": "Excellence in Facial Cosmetics: IHPA 2019",
+        "horizontal": true,
+        "img": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "1-1.webp"
+            }
+          }
+        }
+      },
+      {
+        "id": 41,
+        "title": "Facial Plastics Surgery & Rhinoplasty",
+        "subtitle": "Fellowship by ISFPRS",
+        "horizontal": true,
+        "img": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "h2.webp"
+            }
+          }
+        }
+      },
+      {
+        "id": 42,
+        "title": "Youth Icon Of The Year, Connexon 2020",
+        "subtitle": "Youth Icon Of The Year, Connexon 2020",
+        "horizontal": true,
+        "img": {
+          "data": {
+            "id": 15,
+            "attributes": {
+              "name": "facebook_1629933182430_6836435266801995459-1.webp"
+            }
+          }
+        }
+      },
+      {
+        "id": 43,
+        "title": "Felicitation: Connexon 2020",
+        "subtitle": "KeyNote Lecture: Rejuvenating Indian Face.",
+        "horizontal": true,
+        "img": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "sfad.webp"
+            }
+          }
+        }
+      },
+      {
+        "id": 44,
+        "title": "KeyNote Speaker",
+        "subtitle": "45th AOMSI National Conference, 2021",
+        "horizontal": true,
+        "img": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "national-speaker.webp"
+            }
+          }
+        }
+      },
+      {
+        "id": 45,
+        "title": "Award: IADS Connexon 2020",
+        "subtitle": "Young Achiever in Facial Cosmetics",
+        "horizontal": true,
+        "img": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "facebook_1629933159827_6836435171996936098-1.webp"
+            }
+          }
+        }
+      }
+    ],
+    "directorImgs": [
+      {
+        "id": 3,
+        "awardImg": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "v1.webp"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "meta": ""
+}
